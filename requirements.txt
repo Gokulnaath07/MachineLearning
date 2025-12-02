@@ -1,0 +1,17 @@
+# Auto-generated requirements from project imports
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+nltk
+wordcloud
+ipython
+prophet
+folium
+yellowbrick
+plotly
+
+# Optional (useful for notebooks / development)
+jupyter

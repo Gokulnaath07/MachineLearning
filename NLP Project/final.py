@@ -5,7 +5,7 @@ import seaborn as sea
 import warnings
 warnings.filterwarnings('ignore')
 
-data=pd.read_csv('Tweets.csv')
+data=pd.read_csv('C:\\Users\\Albus\\Desktop\\Spring2025\\ML\\Github\\MachineLearning\\NLP Project\\Tweets.csv')
 data.head(7)
 
 shape=data.shape

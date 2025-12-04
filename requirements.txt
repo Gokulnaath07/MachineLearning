@@ -12,6 +12,9 @@ prophet
 folium
 yellowbrick
 plotly
-
+tensorflow
+keras
+torch
+transformers
 # Optional (useful for notebooks / development)
 jupyter
